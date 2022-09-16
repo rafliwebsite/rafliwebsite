@@ -7,7 +7,7 @@
 -----
 I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at CyberSecurity.
+- 💻 I’m currently a CS student at CyberSecurity.
 - 📚 I enjoy learning full-stack development focus on the Fronted.
 - 👨‍🎓 Looking forward to build mobile apps as well in the future.📱
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/99103722/154147514-fae0175c-29a8-4971-bab1-689ac746e5e3.gif" />
