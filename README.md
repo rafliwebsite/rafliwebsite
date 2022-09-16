@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>Hello World </em>
 
 <a href="https://i.ibb.co/JH8XNzx/IMG-20220916-132303-235.jpg"><img src="https://i.ibb.co/JH8XNzx/IMG-20220916-132303-235.jpg" alt="https://i.ibb.co/JH8XNzx/IMG-20220916-132303-235.jpg" border="0"></a>
-[![Saweria](	<a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />)](https://github.com/rafliwebsite)
+(	<a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />)](https://github.com/rafliwebsite)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6283869780790)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafliwebsite@gmail.com)
 -----
